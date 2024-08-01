@@ -1,0 +1,188 @@
+    1  cd Desktop
+    2  gedit multiplication_table.sh
+    3  service crontab status
+    4  sudo systemctl crontab status
+    5  sudo systemctl cron status
+    6  sudo systemctl status cron
+    7  crontab -l
+    8  crontab -e
+    9  crontab -l
+   10  crontab -e
+   11  crontab -l
+   12  crontab -e
+   13  sudo nano /etc/anacrontab
+   14  crontab -e
+   15  #!/bin/bash
+   16  echo
+   17  gedit echo"enter a number"
+   18  cd Desktop
+   19  chmod +x L6.sh
+   20  ./L6.sh
+   21  chmod +x L6.sh
+   22  ./L6.sh
+   23  cd Desktop
+   24  mkdir h
+   25  cd h
+   26  cd ..
+   27  mkdir -p p/b
+   28  cd p
+   29  cd b
+   30  cd..
+   31  cd ..
+   32  mkdir -m 755 a
+   33  ls
+   34  rmdir h
+   35  ls
+   36  rmdir a p
+   37  ls
+   38  rmdir -p p/b
+   39  ls
+   40  grep hello L6_2.sh
+   41  head -c 20 L6_2.sh
+   42  head -c 19 L6_2.sh
+   43  head -c 18 L6_2.sh
+   44  file l6_2.sh
+   45  file L6_2.sh
+   46  sudo apt update
+   47  sudo apt install openssh-client
+   48  sudo apt install openssh-server
+   49  sudo usermod -aG ssh dbit@IT2-48
+   50  sudo ufw allow ssh
+   51  clear
+   52  sudo apt install openssh-server
+   53  sudo systemctl status ssh
+   54  hostname -I
+   55  PasswordAuthentication yes
+   56  ssh dbit@10.0.1.221
+   57  ssh dbit@10.0.1.223
+   58  clear
+   59  sudo systemctl status ssh
+   60  hostname -I
+   61  ssh dbit@10.0.1.223
+   62  ssh dbit@10.0.1.221
+   63  chmod +x 3422.sh
+   64  cd desktop
+   65  cd Desktop
+   66  chmod +x 3422.sh
+   67  3422.sh
+   68  chmod +x 3422.sh
+   69  chmod +x 3422.sh
+   70  ./3422.sh
+   71  ./3422.sh count.txt
+   72  cd Documents
+   73  gedit 3353.sh
+   74  gedit demo.txt
+   75  bash 3353.sh hello bye demo.txt
+   76  grep.sh
+   77  clear
+   78  bash 3353.sh  bye hello demo.txt
+   79  ghci glen.hs
+   80  gedit glen.hs
+   81  ghci glen.hs
+   82  sudo apt install ghc
+   83  ghai
+   84  ping 10.0.1.1
+   85  ghci
+   86  sudo apt install ghc
+   87  ghci
+   88  sudo apt install ghc
+   89  ghci
+   90  sudo apt install ghc
+   91  ghci
+   92  sudo apt install ghc
+   93  sudo apt-get update
+   94  sudo apt install ghc
+   95  ghci
+   96  ghci double.hs
+   97  cd Documents
+   98  ls
+   99  ghci double.hs
+  100  ghci factorial.hs
+  101  cd Documentd
+  102  scd 
+  103  cd Documents
+  104  ls
+  105  ghci factorial.hs
+  106  cd Documents
+  107  ls
+  108  avg.h
+  109  ghci avh.hs
+  110  cd Documents
+  111  ls
+  112  ghci avg.hs
+  113  cd Documents
+  114  ls
+  115  ghci avg.hs
+  116  cd 
+  117  ghci avg.hs
+  118  pwd
+  119  cd Documents
+  120  pwd
+  121  ghci avg.hs
+  122  sudo add-apt-repository ppa:wireshark-dev/stable
+  123  clear
+  124  sudo add-apt-repository ppa:wireshark-dev/stable
+  125  sudo apt update
+  126  sudo apt install wireshark
+  127  sudo usermod -aG wireshark $USER
+  128  wireshark
+  129  sudo wireshark
+  130  clear
+  131  sudo wireshark
+  132  ifconfig
+  133  ifconfig
+  134  sudo apt install net-tools
+  135  clear
+  136  ifconfig
+  137  sudo wireshark
+  138  clear
+  139  exit
+  140  gedit it.ts
+  141  ghci it.hs
+  142  gedit it.hs
+  143  ghci it.hs
+  144  ghci q5.hs
+  145  gedit q5.hs
+  146  ghci q5.hs
+  147  gedit q6.hs
+  148  ghci it.hs
+  149  mkdir
+  150  mkdr
+  151  mkdr devops
+  152  mkdir devops
+  153  clear
+  154  cd devops
+  155  tuch f1.txt
+  156  touch f1.txt
+  157  ls -a
+  158  cd ..
+  159  ls -al
+  160  ls
+  161  chmod 777 f1.txt
+  162  cd devops
+  163  chmod 777 f1.txt
+  164  gedit f1.txt
+  165  cat f1.txt
+  166  cat > f2.txt
+  167  cat f2.txt
+  168  cat >> f2.txt
+  169  cat f2.txt
+  170  nano f3.txt
+  171  cat nano
+  172  cat f3.txt
+  173  ls -al
+  174  chmod 777 .
+  175* 
+  176  chmod 777 f2.txt
+  177  chmod 777 f1.txt
+  178  cd ..
+  179  ls -al
+  180  sudo apt install git
+  181  sudo apt update
+  182  ls -al
+  183  git init
+  184  ls -al
+  185  cd devops
+  186  git status
+  187  history
+  188  history > f3.txt
